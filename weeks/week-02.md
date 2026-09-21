@@ -16,7 +16,7 @@ permalink: /weeks/week-02/
 ![貼紙牆聚焦]({{ '/assets/images/week02-trace-2.png' | relative_url }})
 
 整座小木屋的外觀，四面幾乎都被貼紙覆蓋，從屋簷、窗框到牆柱，貼紙的密度與新舊層次清楚可見（新貼的邊角平整、舊的已經翹起或褪色）。拍下這張照片，是為了記錄這面「留言板」的整體規模與位置：它座落在步道邊的小屋，明顯是一個累積了長時間、許多人經過的節點。
-![貼紙牆中景]({{ '/assets/images/week02-trace-1.png' | relative_url }})
+![貼紙牆中景]({{ '/assets/images/week02-trace-3.png' | relative_url }})
 
 ## FRICTION｜摩擦
 
